@@ -622,7 +622,7 @@ const Projects = () => {
       <section className="py-12 sm:py-16 md:py-20 px-4 sm:px-5 md:px-6 bg-gray-50">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-10 sm:mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">Trusted Products </h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">Our Clients & Trusted Products</h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
               A selection of clients and trusted products/materials used across our projects.
             </p>
