@@ -158,7 +158,7 @@ const Contact = () => {
                 <h3 className="text-lg sm:text-xl font-semibold text-gray-800 mb-4 leading-tight">Quick Actions</h3>
                 <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">
                   <a
-                    href="tel:+918396948500"
+                    href="tel:+918396008500"
                     className="bg-primary-600 text-white px-5 sm:px-6 py-2.5 sm:py-3 rounded-lg font-semibold hover:bg-primary-700 active:bg-primary-800 transition-colors text-center text-sm sm:text-base"
                   >
                     Call Now
